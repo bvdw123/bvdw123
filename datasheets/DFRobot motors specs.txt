@@ -1,0 +1,19 @@
+ Specification 50:1
+
+    Motor speed (No gearbox):13000 rpm
+    Gear ratio: 50:1 
+    Motor speed (with gearbox): 400rpm±10%
+    Rated current: 55mA @ 6V
+    Stall current: 350mA @ 6V
+    Stall torque: 0.39kg*cm @ 6V
+
+ Specification 30:1
+
+    Working voltage: 3 or 6 volts
+    15000 rpm @6v No load
+    30:1 Gear ratio
+    700rpm±10% @6V With load
+    No-load Current: 55mA @ 6V
+    700mA stall current @ 6V
+    Torque:1.2Kg/cm @6V
+
