@@ -17,4 +17,4 @@
 |         12|Microcontroller                    |Arduino Leonardo                           |Recup      |             0|     1|        0|
 |         13|DRV8833                            |H-brug                                     |Nieuw      |           6,5|     1|      6,5|
 |         14|Push button                        |Drukknop                                   |Recup      |             0|     1|        0|
-                                                                                                                       |TOTAAL|    66,95|
+|         15|                                   |                                           |           |              |TOTAAL|    66,95|
