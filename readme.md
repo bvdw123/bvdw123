@@ -4,7 +4,6 @@
 <br />
 ![LineFollower](https://user-images.githubusercontent.com/114857886/206928205-7ffe385f-2a98-4841-8c1c-9656495de162.jpg)
 ![image](https://user-images.githubusercontent.com/114857886/206928592-03d06c6d-77aa-40a4-b2d2-a9d3944ac054.png)
-
 <br />
 <br />
   
